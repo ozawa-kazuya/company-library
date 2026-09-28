@@ -1,0 +1,769 @@
+[
+  {
+    "excel_title": "かんたんC#",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784774192642",
+      "title": "かんたんC#",
+      "author": "伊藤, 達也"
+    }
+  },
+  {
+    "excel_title": "C＃入門教室(練習問題)",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "EffectiveC#6.0/7.0",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "独習C#",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798153827",
+      "title": "独習C#",
+      "author": "山田, 祥寛"
+    }
+  },
+  {
+    "excel_title": "Visual C#2022　パーフェクトマスター",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798066196",
+      "title": "Visual C# 2022パーフェクトマスター : Microsoft Visual Studio : 全機能解説",
+      "author": "金城, 俊哉"
+    }
+  },
+  {
+    "excel_title": "プログラミング学習術",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798060125",
+      "title": "知識ゼロからのプログラミング学習術 : 独学で身につけるための9つの学習ステップ",
+      "author": "北村, 拓也, 1992-"
+    }
+  },
+  {
+    "excel_title": "マスタリングTCP/IP入門編",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784274060731",
+      "title": "マスタリングTCP/IP",
+      "author": "竹下, 降史, 1965-"
+    }
+  },
+  {
+    "excel_title": "安全なWebアプリケーションの作り方",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784797393163",
+      "title": "体系的に学ぶ安全なWebアプリケーションの作り方 : 脆弱性が生まれる原理と対策の実践",
+      "author": "徳丸, 浩"
+    }
+  },
+  {
+    "excel_title": "Web技術の基本",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784797388817",
+      "title": "この一冊で全部わかるWeb技術の基本 : 実務で生かせる知識が、確実に身につく",
+      "author": "小林, 恭平"
+    }
+  },
+  {
+    "excel_title": "わかばちゃんと学ぶWebサイト制作の基本",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784863541948",
+      "title": "わかばちゃんと学ぶWebサイト制作の基本",
+      "author": "湊川, あい, 1989-"
+    }
+  },
+  {
+    "excel_title": "すべてのUNEXTで20年働くプログラムはどう書くべきか",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "DUO3.0現代英語の重要単語1600+熟語1000を重複なしで60本の基本例文に凝縮",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "DUO3.0現代英語の重要単語1600+熟語1000を重複なしで60本の基本例文に凝縮",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "仮想化＆コンテナがこれ一冊でしっかりわかる教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "熊とワルツをリスクを愉しむプロジェクト管理",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784822281861",
+      "title": "熊とワルツを : リスクを愉しむプロジェクト管理",
+      "author": "DeMarco, Tom"
+    }
+  },
+  {
+    "excel_title": "使える！活かせる！マニュアルのつくり方",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  },
+  {
+    "excel_title": "プリンシプルオブプログラミング",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  },
+  {
+    "excel_title": "ビジネスマナーの解剖図鑑",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784767821603",
+      "title": "ビジネスマナーの解剖図鑑",
+      "author": "北條, 久美子"
+    }
+  },
+  {
+    "excel_title": "実用Subversion",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "新しいLinuxの教科書",
+    "total_copies": 1,
+    "available_copies": 0,
+    "rented_copies": 1,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "プロフェッショナルWebプログラミングLaravel",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "PHPフレームワーク Laravel Webアプリケーション開発",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "PHPフレームワーク Laravel Webアプリケーション開発",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "PHPフレームワーク Laravel 入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798052588",
+      "title": "PHPフレームワークLaravel入門",
+      "author": "掌田, 津耶乃"
+    }
+  },
+  {
+    "excel_title": "動かして学ぶ！Laravel開発入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798168654",
+      "title": "動かして学ぶ!Laravel開発入門 : PHPフレームワークの大本命!MVCモデルの基本からWeb開発まで",
+      "author": "山崎, 大助"
+    }
+  },
+  {
+    "excel_title": "エクセルのマクロとVBAがわかる本",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Excel関数全事典",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Excel関数基本＆便利技",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "1時間でわかるExcelエクセルVBA",
+    "total_copies": 1,
+    "available_copies": 0,
+    "rented_copies": 1,
+    "lookup": {
+      "isbn": "9784774187211",
+      "title": "1時間でわかるExcel (エクセル) VBA : プログラムのコードの意味がわかる!",
+      "author": "リブロワークス"
+    }
+  },
+  {
+    "excel_title": "ExcelVBAの教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "GoogleAppsScript完全入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Windows11完全ガイドブック",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784297128500",
+      "title": "今すぐ使えるかんたんWindows 11完全ガイドブック : 困った解決&amp;便利技",
+      "author": ""
+    }
+  },
+  {
+    "excel_title": "いちばんやさしいITパスポート",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784797393774",
+      "title": "いちばんやさしいITパスポート絶対合格の教科書+出る順問題集",
+      "author": ""
+    }
+  },
+  {
+    "excel_title": "良いコードの道しるべ",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784839982850",
+      "title": "良いコードの道しるべ : 変化に強いソフトウェアを作る原則と実践",
+      "author": "森, 篤史"
+    }
+  },
+  {
+    "excel_title": "Jquery仕事の現場でサッと使える！デザイン教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784774172736",
+      "title": "jQuery仕事の現場でサッと使える!デザイン教科書 : [プロに必要な実践知識がここにある!]",
+      "author": "吉本, 集, 1981-"
+    }
+  },
+  {
+    "excel_title": "JavaSilverSE11対応　問題集",
+    "total_copies": 3,
+    "available_copies": 1,
+    "rented_copies": 2,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "アプリケーションアーキテクチャ設計パターン",
+    "total_copies": 2,
+    "available_copies": 1,
+    "rented_copies": 1,
+    "lookup": {
+      "isbn": "9784774193038",
+      "title": "アプリケーションアーキテクチャ設計パターン",
+      "author": "斉藤, 賢哉, 1970-"
+    }
+  },
+  {
+    "excel_title": "Angular",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784863542921",
+      "title": "Ionic (アイオニック) で作るモバイルアプリ制作入門 : Angular版 : Web/iPhone/Android対応",
+      "author": "榊原, 昌彦"
+    }
+  },
+  {
+    "excel_title": "リーダブルコード",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784873115658",
+      "title": "リーダブルコード : より良いコードを書くためのシンプルで実践的なテクニック",
+      "author": "Boswell, Dustin"
+    }
+  },
+  {
+    "excel_title": "リーダブルコード",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784873115658",
+      "title": "リーダブルコード : より良いコードを書くためのシンプルで実践的なテクニック",
+      "author": "Boswell, Dustin"
+    }
+  },
+  {
+    "excel_title": "ドメイン駆動設計入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Webを支える技術",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784774142043",
+      "title": "Webを支える技術 : HTTP、URI、HTML、そしてREST",
+      "author": "山本, 陽平, 1975-"
+    }
+  },
+  {
+    "excel_title": "Webを支える技術",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784774142043",
+      "title": "Webを支える技術 : HTTP、URI、HTML、そしてREST",
+      "author": "山本, 陽平, 1975-"
+    }
+  },
+  {
+    "excel_title": "要件定義のセオリーと実践方法がこれ一冊でしっかりわかる教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "内部構造から学ぶ　PostgreSQL設計・運用　計画の鉄則",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784774167091",
+      "title": "内部構造から学ぶPostgreSQL設計・運用計画の鉄則",
+      "author": "勝俣, 智成, 1978-"
+    }
+  },
+  {
+    "excel_title": "Web API:The Good Parts",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Web API:The Good Parts",
+    "total_copies": 4,
+    "available_copies": 1,
+    "rented_copies": 3,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Web API:The Good Parts",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "Web API:The Good Parts",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "NTTコミュニケーションズコミュニケーションズインターネット検定.com Master BASIC",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "マンガでわかる　ソフトウェアテスト入門テスターちゃん",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "GitHub実践入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "わかばちゃんと学ぶGit使い方入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784863542174",
+      "title": "わかばちゃんと学ぶGit使い方入門",
+      "author": "湊川, あい, 1989-"
+    }
+  },
+  {
+    "excel_title": "AWS認定教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "AWS認定合格対策テキスト＋問題集",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": ".NEXTのクラスライブラリ設計",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "オラクル認定資格試験対策書　BronzeDBA",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "達人に学ぶDB設計徹底指南書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798186627",
+      "title": "達人に学ぶDB設計徹底指南書",
+      "author": "ミック"
+    }
+  },
+  {
+    "excel_title": "なぜ？がわかるデータベース",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798156545",
+      "title": "なぜ?がわかるデータベース : リレーショナルDBの構造と動きを徹底理解",
+      "author": "小笠原, 種高"
+    }
+  },
+  {
+    "excel_title": "マンガでわかるデータベース",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784274066313",
+      "title": "マンガでわかるデータベース",
+      "author": "高橋, 麻奈, 1971-"
+    }
+  },
+  {
+    "excel_title": "独習PHP第4版",
+    "total_copies": 1,
+    "available_copies": 0,
+    "rented_copies": 1,
+    "lookup": {
+      "isbn": "9784798168494",
+      "title": "独習PHP",
+      "author": "山田, 祥寛"
+    }
+  },
+  {
+    "excel_title": "独習PHP第4版",
+    "total_copies": 3,
+    "available_copies": 0,
+    "rented_copies": 3,
+    "lookup": {
+      "isbn": "9784798168494",
+      "title": "独習PHP",
+      "author": "山田, 祥寛"
+    }
+  },
+  {
+    "excel_title": "独習PHP第4版",
+    "total_copies": 1,
+    "available_copies": 0,
+    "rented_copies": 1,
+    "lookup": {
+      "isbn": "9784798168494",
+      "title": "独習PHP",
+      "author": "山田, 祥寛"
+    }
+  },
+  {
+    "excel_title": "1週間でPHPの基礎が学べる本",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "よくわかるPHPの教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "気づけばプロ並みPHP改訂版",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "いきなりはじめるPHP",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "PHP8 技術者認定初級試験　公式問題集A",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "動かして学ぶ！Vue.js開発入門",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798158921",
+      "title": "動かして学ぶ!Vue.js開発入門 : シングルページアプリケーションの作り方がしっかり学べる",
+      "author": "森, 巧尚, 1966-"
+    }
+  },
+  {
+    "excel_title": "いちばんやさしいVue.js入門教室",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784800712356",
+      "title": "いちばんやさしいVue.js入門教室",
+      "author": "大津, 真"
+    }
+  },
+  {
+    "excel_title": "演習で力がつくHTML/CSS コーディングの教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784797382082",
+      "title": "演習で力がつくHTML/CSSコーディングの教科書",
+      "author": "磯, 博, 1959-"
+    }
+  },
+  {
+    "excel_title": "演習で力がつくHTML/CSS コーディングの教科書",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784797382082",
+      "title": "演習で力がつくHTML/CSSコーディングの教科書",
+      "author": "磯, 博, 1959-"
+    }
+  },
+  {
+    "excel_title": "基本情報技術者　絶対合格の教科書＋出る順問題集",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "独習PHP第4版",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798168494",
+      "title": "独習PHP",
+      "author": "山田, 祥寛"
+    }
+  },
+  {
+    "excel_title": "Vue.js",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "The read operation timed out"
+    }
+  },
+  {
+    "excel_title": "ExcelVBAのプログラミングのツボとコツが絶対にわかる本",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "error": "not_found"
+    }
+  },
+  {
+    "excel_title": "独習PHP第4版",
+    "total_copies": 1,
+    "available_copies": 1,
+    "rented_copies": 0,
+    "lookup": {
+      "isbn": "9784798168494",
+      "title": "独習PHP",
+      "author": "山田, 祥寛"
+    }
+  }
+]
