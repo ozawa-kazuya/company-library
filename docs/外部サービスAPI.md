@@ -136,7 +136,7 @@ Google Books は `.env` の `GOOGLE_BOOKS_API_KEY` があれば `key=` を付け
 | 表紙が出ない | 版元・Open Library・Google。手動アップロードまたは remember |
 | 書籍検索画面が空 | ブラウザから Google Books へ出られるか |
 | Slack が来ない | cron、Webhook、Bot Token、件数 0 |
-| 再設定メールが来ない | `MAIL_*`、`laravel.log` |
+| 再設定メールが来ない | `MAIL_*`、CloudWatch Logs |
 
 外部 API の障害で HTTP 500 にしない実装です（タイムアウトは握りつぶして `null`）。
 
