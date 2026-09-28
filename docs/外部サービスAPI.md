@@ -147,7 +147,7 @@ Google Books は `.env` の `GOOGLE_BOOKS_API_KEY` があれば `key=` を付け
 | もの | 理由 |
 |------|------|
 | 自前の公開 REST | 出していない |
-| AWS | 使わない（[使用クラウド](./使用クラウド.md)） |
+| AWS | 本サーバーの箱。アプリが呼ぶ外部 API ではない（[AWSセットアップ](./AWSセットアップ.md)） |
 | Packagist / npm | ビルド時のみ。実行時は `vendor` / `public/build` |
 | MySQL | 自前（または社内）DB。外部 SaaS ではない |
 
